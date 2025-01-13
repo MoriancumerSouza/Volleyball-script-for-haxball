@@ -26,3 +26,7 @@ Contribuições são bem-vindas! Se você tem ideias para melhorar este script, 
 
 # 📜 Licença
 Este projeto é distribuído apenas para fins educativos e experimentais. Por favor, não o utilize comercialmente sem a autorização dos autores originais.
+
+## Licença
+Este projeto está sob a Licença de Uso Restrito. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
