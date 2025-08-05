@@ -13,7 +13,7 @@ Se decidir utilizar ou distribuir este código, mantenha os devidos créditos à
 # 🛠️ Requisitos
 Navegador compatível com o Haxball Headless API.
 Conhecimentos básicos em JavaScript (caso deseje personalizar o script).
-#⚙️ Como Usar
+# ⚙️ Como Usar
 Clone este repositório ou baixe o script diretamente.
 Configure o script no seu host de Haxball Headless.
 Inicie o jogo com o script carregado.
